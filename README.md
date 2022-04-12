@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xmh1011
 - 👀 I’m interested in golang.
-- 🌱 I’m currently learning time-series database
+- 🌱 I’m currently learning time-series database.
 - 📫 How to reach me: 1197843839@qq.com
 
 <!---
