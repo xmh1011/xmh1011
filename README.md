@@ -1,6 +1,5 @@
-## 👋 Hi, I’m @xmh1011
-## 📫 WeChat: xmh1011xmh
-
+### 👋 Hi, I’m @xmh1011
+### 📫 WeChat: xmh1011xmh
 <!---
 xmh1011/xmh1011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
