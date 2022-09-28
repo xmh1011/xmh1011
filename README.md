@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @xmh1011
 - 📫 WeChat: xmh1011xmh
+- ![visitors](https://visitor-badge.glitch.me/badge?page_id=xmh1011&left_color=green&right_color=red)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=xmh1011&column=7)](https://github.com/xmh1011)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=xmh1011&left_color=green&right_color=red)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xmh1011&layout=compact)](https://github.com/xmh1011/github-readme-stats)
 
