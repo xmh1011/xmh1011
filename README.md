@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @xmh1011
-- 👀 I’m interested in golang and rust.
-- 🌱 I’m currently learning time-series database.
-- 📫 How to reach me: 1197843839@qq.com
+- 📫 WeChat: xmh1011xmh
 
 <!---
 xmh1011/xmh1011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
