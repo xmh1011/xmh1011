@@ -6,7 +6,6 @@ xmh1011/xmh1011 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xmh1011)](https://github.com/xmh1011/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=xmh1011&column=7)](https://github.com/xmh1011)
 
