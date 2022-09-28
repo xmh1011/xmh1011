@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xmh1011
-- 📫 WeChat: xmh1011xmh\
+- 📫 WeChat: xmh1011xmh
 - ![](https://komarev.com/ghpvc/?username=xmh1011&color=brightgreen)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=xmh1011&column=7)](https://github.com/xmh1011)
