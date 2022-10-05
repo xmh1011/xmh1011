@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=A5CAA&center=true&lines=Hello!+I'm+xmh1011.;Welcome!)](https://git.io/typing-svg)
+
 - 👋 Hi, I’m @xmh1011
 - 📫 WeChat: xmh1011xmh
 - ![](https://komarev.com/ghpvc/?username=xmh1011&color=brightgreen)
