@@ -13,7 +13,11 @@
 - 🤖 A rookie in time series databases.
 - ⌨️ Contributed to [CnosDB](https://github.com/cnosdb/cnosdb) and [openGemini](https://github.com/openGemini/openGemini).
 - 💻 Interested in Golang and Rust.
-- 📫 WeChat: `echo -n 'eG1oMDAxMDExCg==' | base64 -d`
+- 📫 WeChat:
+  
+  ```shell
+  echo -n 'eG1oMDAxMDExCg==' | base64 -d
+  ```
 
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=xmh1011&color=brightgreen" alt="Profile Views" />
