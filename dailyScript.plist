@@ -7,7 +7,7 @@
     <key>ProgramArguments</key>
     <array>
         <string>/bin/bash</string>
-        <string>/Users/xiaominghao/code/xmh1011/run.sh</string>
+        <string>/Users/xiaominghao/code/xmh1011/script.sh</string>
     </array>
     <key>RunAtLoad</key>
     <true/>
