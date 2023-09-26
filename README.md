@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=A5CAA&center=true&lines=Hello!+I'm+xmh1011.)](https://git.io/typing-svg)
+<div align="center">
+  <img src= "https://readme-typing-svg.herokuapp.com?color=A5CAA&center=true&lines=Hello!+I'm+xmh1011." />
+</div>
 
 <div align="center">
   <span>  </span>
