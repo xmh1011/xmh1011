@@ -8,6 +8,8 @@
   <span>  </span>
   <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmh1011&layout=compact&langs_count=8" />
   <span>  </span>
+  <img height="170px" src="[![GitHub Streak](https://streak-stats.demolab.com/?user=xmh1011&theme=cobalt)](https://git.io/streak-stats)" />
+  <span>  </span>
 </div>
 
 <div style="position: relative;">
