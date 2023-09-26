@@ -8,7 +8,7 @@ date=$(date +"%Y-%m-%d")
 
 line_number=$(($(wc -l < "$file_path") - 4))
 
-title="- 🗓️Updated at: "
+title="- 🗓 Updated at: "
 
 new_content="$title$now"
 
