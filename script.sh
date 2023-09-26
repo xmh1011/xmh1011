@@ -21,6 +21,9 @@ new_content="$title$now"
 # 更新倒数第六行的内容为当前日期时间
 sed -i '' "${line_number}s/.*/$new_content/" "$file_path"
 
+# 设置代理
+export https_proxy=http://127.0.0.1:7890 http_proxy=http://127.0.0.1:7890 all_proxy=socks5://127.0.0.1:7890
+
 # 提交代码
 git add .
 git commit -s -m "feat: update README.md at $date"
