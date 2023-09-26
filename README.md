@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
  📫 WeChat
  ```
- Basic eG1oMDAxMDExCg==
+ echo -n 'eG1oMDAxMDExCg==' | base64 -d
  ```
 
  ![](https://komarev.com/ghpvc/?username=xmh1011&color=brightgreen) 
