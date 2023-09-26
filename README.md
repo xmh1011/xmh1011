@@ -14,7 +14,7 @@
   
 - 🤖 A rookie in time series databases.
 - ⌨️ Contributed to [CnosDB](https://github.com/cnosdb/cnosdb) and [openGemini](https://github.com/openGemini/openGemini).
-- 💻 Interested in [Golang](https://golang.org) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="20" height="20"/> and [Rust](https://www.rust-lang.org) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="20" height="20"/> .
+- 💻 Interested in Golang <a href="https://www.golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="20" height="20"/> </a> and Rust <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="20" height="20"/> </a>.
 - 📫 WeChat:
   
   ```shell
