@@ -13,6 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<style>
+#bottom-right {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}
+</style>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=A5CAA&center=true&lines=Hello!+I'm+xmh1011.)](https://git.io/typing-svg)
 
