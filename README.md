@@ -8,12 +8,15 @@
   <span>  </span>
 </div>
 
-<div style="position: absolute; bottom: 0; right: 0;">
+<div style="position: relative;">
   
 - 🤖 A rookie in time series databases.
 - ⌨️ Contributed to [CnosDB](https://github.com/cnosdb/cnosdb) and [openGemini](https://github.com/openGemini/openGemini).
 - 💻 Interested in Golang and Rust.
 - 📫 WeChat: `echo -n 'eG1oMDAxMDExCg==' | base64 -d`
   
-![](https://komarev.com/ghpvc/?username=xmh1011&color=brightgreen)
+<div style="position: absolute; bottom: 0; right: 0;">
+  <img src="https://komarev.com/ghpvc/?username=xmh1011&color=brightgreen" alt="Profile Views" />
+</div>
+
 </div>
