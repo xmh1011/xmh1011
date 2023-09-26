@@ -25,7 +25,7 @@
   ```shell
   echo -n 'eG1oMDAxMDExCg==' | base64 -d
   ```
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=xmh1011&theme=cobalt&date_format=%5BY.%5Dn.j&exclude_days=Mon%2CTue%2CWed%2CThu%2CFri)](https://git.io/streak-stats)
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=xmh1011&color=brightgreen" alt="Profile Views" />
 </div>
