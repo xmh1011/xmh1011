@@ -13,7 +13,7 @@
 <div style="position: relative;">
   
 - 🤖 A rookie in time series databases.
-- ⌨️ Contributed to [CnosDB](https://github.com/cnosdb/cnosdb) and [openGemini](https://github.com/openGemini/openGemini).
+- ⌨️ Contributed to [CnosDB](https://github.com/cnosdb/cnosdb) <a href="https://www.cnosdb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/xmh1011/xmh1011/icon/cnosdb.png" width="20" height="20"/> </a>and [openGemini](https://github.com/openGemini/openGemini).
 - 💻 Interested in [Golang](https://www.golang.org) <a href="https://www.golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="20" height="20"/> </a> and [Rust](https://www.rust-lang.org) <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="20" height="20"/> </a>.
 - 📫 WeChat:
   
