@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 <span>  </span>
 </div>
 
-| 📫 WeChat: xmh001011| ![](https://komarev.com/ghpvc/?username=xmh1011&color=brightgreen) |
+ 📫 WeChat: xmh001011 ![](https://komarev.com/ghpvc/?username=xmh1011&color=brightgreen) 
