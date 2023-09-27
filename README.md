@@ -6,7 +6,7 @@
   <span>  </span>
   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=xmh1011&include_all_commits=true&count_private=true&show_icons=true" />
   <span>  </span>
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmh1011&layout=compact&langs_count=8" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmh1011&layout=compact&langs_count=8&hide=makefile,mustache" />
   <span>  </span>
 </div>
 
@@ -23,7 +23,7 @@
   echo -n 'eG1oMDAxMDExCg==' | base64 -d
   ```
 
-- 🗓 Updated at: 2023-09-27 13:27:58
+- 🗓 Updated at: 2023-09-27 13:34:52
 
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=xmh1011&color=brightgreen" alt="Profile Views" />
