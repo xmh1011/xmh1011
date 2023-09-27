@@ -14,6 +14,8 @@ new_content="$title$now"
 
 sed -i '' "${line_number}s/.*/$new_content/" "$file_path"
 
+export https_proxy=http://127.0.0.1:7890 http_proxy=http://127.0.0.1:7890 all_proxy=socks5://127.0.0.1:7890
+
 git add .
 git commit -s -m "feat: update README.md at $date"
 git push origin main -f
