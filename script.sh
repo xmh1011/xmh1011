@@ -20,3 +20,7 @@ git pull origin main
 git add .
 git commit -s -m "feat: update README.md at $date"
 git push origin main -f
+
+command_to_execute="/bin/bash /Users/xiaominghao/code/xmh1011/script.sh"
+
+command_to_execute >> /Users/xiaominghao/code/xmh1011/log.txt 2>&1
