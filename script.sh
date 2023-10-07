@@ -10,7 +10,7 @@ now=$(date +"%Y-%m-%d %H:%M:%S")
 
 date=$(date +"%Y-%m-%d")
 
-line_number=$(($(wc -l < "$file_path") - 4))
+line_number=$(($(wc -l < "$readme_path") - 4))
 
 title="- 🗓 Updated at: "
 
