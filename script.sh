@@ -1,6 +1,10 @@
 #!/bin/bash
 
-file_path="/Users/xiaominghao/code/xmh1011/README.md"
+file_path=$(pwd)
+
+readme_path="$file_path/README.md"
+
+log_path="$file_path/log.txt"
 
 now=$(date +"%Y-%m-%d %H:%M:%S")
 
@@ -12,14 +16,14 @@ title="- 🗓 Updated at: "
 
 new_content="$title$now"
 
-sed -i '' "${line_number}s/.*/$new_content/" "$file_path"
+sed -i '' "${line_number}s/.*/$new_content/" "$readme_path"
 
 export https_proxy=http://127.0.0.1:7890 http_proxy=http://127.0.0.1:7890 all_proxy=socks5://127.0.0.1:7890
 
-cd /Users/xiaominghao/code/xmh1011
+cd file_path
 
 git add .
 git commit -s -m "feat: update README.md at $date"
 git push origin main -f
 
-echo "success: $now" >> log.txt
+echo "success: $now" >> "$log_path"
