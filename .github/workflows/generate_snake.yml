@@ -1,28 +1,38 @@
 name: Generate Snake
 on:
+  # run automatically every 24 hours
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 */24 * * *" 
   workflow_dispatch:
+  # run on every push on the main branch
+  push:
+    branches:
+    - main
 jobs:
-  build:
+  generate:
+    permissions: 
+      contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+
     steps:
-      - name: Checkout
-        uses: actions/checkout@v2.3.4
-      - name: Generate Snake
-        uses: Platane/snk@master
-        id: snake-gif
+      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
+      - name: generate github-contribution-grid-snake
+        uses: Platane/snk/svg@v3
         with:
-          github_user_name: xmh1011
+          github_user_name: ${{ github.repository_owner }}
           gif_out_path: ./assets/github-contribution-grid-snake.gif
           svg_out_path: ./assets/github-contribution-grid-snake.svg
           # show the status of the build. Makes it easier for debugging (if there's any issues).
-      - run: git status
+        env:
+          GITHUB_TOKEN: ${{ secrets.AAA }}
+          
       - name: Push to GitHub
         uses: EndBug/add-and-commit@v7.2.1
         with:
           branch: main
-          github_token: ${{ secrets.GITHUB_TOKEN }}
           force: true
           message: "feat: update grid snake icon"
+        env:
+          GITHUB_TOKEN: ${{ secrets.AAA }}
 
