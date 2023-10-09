@@ -25,6 +25,8 @@
 
 - 🗓 Updated at: 2023-10-09 11:20:13
 
+![](https://raw.githubusercontent.com/xmh1011/xmh1011/main/assets/github-contribution-grid-snake.svg)
+
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=xmh1011&color=brightgreen" alt="Profile Views" />
 </div>
