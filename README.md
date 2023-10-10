@@ -1,13 +1,5 @@
-<div align="center">
+<div style="position: relative;">
   <img src= "https://readme-typing-svg.herokuapp.com?color=A5CAA&center=true&lines=Hello!+I'm+xmh1011." />
-</div>
-
-<div align="center">
-  <span>  </span>
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=xmh1011&include_all_commits=true&count_private=true&show_icons=true" />
-  <span>  </span>
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmh1011&layout=compact&langs_count=8&hide=makefile,mustache,dockerfile" />
-  <span>  </span>
 </div>
 
 <div style="position: relative;">
@@ -23,7 +15,17 @@
   echo -n 'eG1oMDAxMDExCg==' | base64 -d
   ```
 
-- 🗓 Updated at: 2023-10-08 11:20:13
+<div align="center">
+  <span>  </span>
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=xmh1011&include_all_commits=true&count_private=true&show_icons=true" />
+  <span>  </span>
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmh1011&layout=compact&langs_count=8&hide=makefile,mustache,dockerfile" />
+  <span>  </span>
+  <img height="170px" src="https://streak-stats.demolab.com?user=xmh1011&theme=tokyonight-duo&border_radius=10&date_format=%5BY.%5Dn.j" />
+  <span>  </span>
+  <img height="170px" src="https://github-profile-trophy.vercel.app/?username=xmh1011&column=3&row=2&margin-w=15&margin-h=15&no-frame=true&no-bg=true" />
+  <span>  </span>
+</div>
 
 <div align="center">
   <img src= "https://github.com/xmh1011/xmh1011/blob/output/github-contribution-grid-snake.svg" />
