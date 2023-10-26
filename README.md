@@ -1,6 +1,4 @@
-<div style="position: relative;">
-  <img src= "https://readme-typing-svg.herokuapp.com?color=A5CAA&center=true&lines=Hello!+I'm+xmh1011." />
-</div>
+<h1 align=center>👋 Hi, I'm xmh1011! </h1>
 
 <div style="position: relative;">
   
