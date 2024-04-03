@@ -18,7 +18,7 @@
   <span>  </span>
   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=xmh1011&include_all_commits=true&count_private=true&show_icons=true" />
   <span>  </span>
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmh1011&layout=compact&langs_count=8&hide=makefile,mustache,dockerfile" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmh1011&layout=compact&hide=mustache" />
   <span>  </span>
   <img height="170px" src="https://streak-stats.demolab.com?user=xmh1011&theme=tokyonight-duo&border_radius=10&date_format=%5BY.%5Dn.j" />
   <span>  </span>
