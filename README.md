@@ -2,7 +2,7 @@
 
 <div style="position: relative;">
   
-- 📃 Working in [flashcatcloud](https://github.com/flashcatcloud).
+- 📃 Working in [Baidu](https://github.com/baidu).
 - 🤖 A rookie in database, [InfluxDB](https://github.com/influxdata/influxdb), [CnosDB](https://github.com/cnosdb/cnosdb), [openGemini](https://github.com/openGemini/openGemini) and [MatrixOne](https://github.com/matrixorigin/matrixone) etc.
 - ⌨️ Contributed to [CnosDB](https://github.com/cnosdb/cnosdb), [openGemini](https://github.com/openGemini/openGemini), [MatrixOne](https://github.com/matrixorigin/matrixone), [Categraf](https://github.com/flashcatcloud/categraf) and [SigLens](https://github.com/siglens/siglens).
 - 💻 Interested in <a href="https://www.golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="20" height="20"/> </a>.
