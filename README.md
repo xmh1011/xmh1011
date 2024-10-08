@@ -16,7 +16,7 @@
 
 <div align="center">
   <span>  </span>
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=xmh1011&show_icons=true" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=xmh1011&show_icons=true?count_private=true" />
   <span>  </span>
   <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmh1011&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5" />
   <span>  </span>
