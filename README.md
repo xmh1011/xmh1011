@@ -20,7 +20,7 @@
   <span>  </span>
   <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmh1011&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5" />
   <span>  </span>
-  <img height="170px" src="https://streak-stats.demolab.com?user=xmh1011&theme=tokyonight-duo&border_radius=10&date_format=%5BY.%5Dn.j" />
+  <img height="170px" src="https://streak-stats.demolab.com?user=xmh1011&theme=tokyonight-duo&border_radius=8&date_format=%5BY.%5Dn.j" />
   <span>  </span>
   <img height="170px" src="https://github-profile-trophy.vercel.app/?username=xmh1011&column=3&row=2&margin-w=15&margin-h=15&no-frame=true&no-bg=true" />
   <span>  </span>
