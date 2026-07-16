@@ -2,10 +2,10 @@
 
 <div style="position: relative;">
 
-- 💻 Working in [Baidu](https://github.com/baidu).
-- 📃 Paper: [MEEG and AT-DGNN: Improving EEG Emotion Recognition with Music Introducing and Graph-based Learning](https://ieeexplore.ieee.org/document/10821806), code: [AT-DGNN](https://github.com/xmh1011/AT-DGNN)
-- 🤖 A rookie in database, [InfluxDB](https://github.com/influxdata/influxdb), [CnosDB](https://github.com/cnosdb/cnosdb), [openGemini](https://github.com/openGemini/openGemini) and [MatrixOne](https://github.com/matrixorigin/matrixone) etc.
-- ⌨️ Contributed to [CnosDB](https://github.com/cnosdb/cnosdb), [openGemini](https://github.com/openGemini/openGemini), [MatrixOne](https://github.com/matrixorigin/matrixone), [Categraf](https://github.com/flashcatcloud/categraf) and [SigLens](https://github.com/siglens/siglens).
+- 💻 Working at [Baidu](https://github.com/baidu), focusing on databases, Supabase, and AI agents.
+- 🎓 Master's in Computer Technology from Shandong University; B.Eng. in Automation from Beijing Institute of Technology.
+- ⌨️ Recent open-source work includes contributing fixes and improvements to [Hindsight](https://github.com/vectorize-io/hindsight) and [pg-toolbelt](https://github.com/supabase/pg-toolbelt). Previously contributed to [CnosDB](https://github.com/cnosdb/cnosdb), [openGemini](https://github.com/openGemini/openGemini), [MatrixOne](https://github.com/matrixorigin/matrixone), and [Categraf](https://github.com/flashcatcloud/categraf).
+- 📃 First author of [MEEG and AT-DGNN: Improving EEG Emotion Recognition with Music Introducing and Graph-based Learning](https://ieeexplore.ieee.org/document/10821806), with open-source code at [AT-DGNN](https://github.com/xmh1011/AT-DGNN).
 
 - <img src="https://github.com/xmh1011/xmh1011/blob/main/icon/wechat.png" width="20" height="20"/> WeChat:
 
